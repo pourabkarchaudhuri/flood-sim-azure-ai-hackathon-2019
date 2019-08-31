@@ -18,7 +18,7 @@ This is a Unity application that helps first responders to get trained on diffic
 
 This project is built using `Unity 2019.1`
 
-### Demo Executable
+### Demo Executable for hackathon preview
 
 Click on the link below to download the demo of the solution which was ported to run on Windows Desktops or Laptops to be tested if you do not own a VR device like HTC Vive.
 
